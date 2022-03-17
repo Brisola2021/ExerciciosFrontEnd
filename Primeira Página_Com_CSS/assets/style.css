@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+/*
+style -> index
+*/
+* {
+    text-decoration: none;
+  }
+
+  body {
+    background: linear-gradient(90deg, #5f61ee, #547cb8)
+
+  }
+
+    #menu ul li {
+
+    display: inline;
+    font-size: 20px;
+    font-family: 'Roboto Serif', serif;
+    font-weight: 600; 
+    padding: 20%
+}
+
+    #menu ul li a {
+        color: rgb(13, 39, 117);
+    }
+
+    #menu ul li a:hover {
+        color: darkgoldenrod;
+    }
+
+    #titulo {
+        color: rgb(44, 44, 212);
+        
+    }
+
+    #titulo:hover {
+        color: gold;
+    }
+
+    #subtitulo {
+        color: rgb(66, 75, 204);
+        text-align: center;
+    }
+
+    #subtitulo:hover {
+        color: gold;
+    }
+    
+    .centralizar {
+        text-align: center;
+        align-items: center;
+    }
+   
+    .container {
+        display: flex;
+        flex-flow: row;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        padding-left: 30px;
+        padding-right: 10px;
+    }
+
+    .container img {
+        width: 600px;
+        height: auto;
+        padding-right: 10px;
+        padding-left: 30px;
+
+    }
+
+    .video {
+        padding-left: 25%;
+    }
+  
+
+
+
+
+
+
+
+
+
+
+
+/*
+style -> contato
+*/
+
+#menucontato ul li {
+
+    display: inline;
+    font-size: 20px;
+    font-family: 'Roboto Serif', serif;
+    font-weight: 600; 
+    padding: 20%
+}
+
+
+#menucontato ul li a {
+    color: rgb(13, 39, 117);
+}
+
+#menucontato ul li a:hover {
+    color: darkgoldenrod;
+}
+
+
+
+
+
+
+
